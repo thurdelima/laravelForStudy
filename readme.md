@@ -7,3 +7,28 @@ Working:
 - controllers
 - views
 - migrations
+
+Then download.
+First step:
+
+composer install
+
+Second step:
+
+Configure the database.
+
+Third step:
+
+php artisan migrate: install
+or
+php artisan migrate: refresh
+
+Fourth step:
+
+php artisan db: seed
+
+Step Five:
+
+php artisan serves
+
+Have a good time
