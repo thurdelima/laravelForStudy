@@ -29,6 +29,6 @@ php artisan db: seed
 
 Step Five:
 
-php artisan serves
+php artisan serve
 
 Have a good time
